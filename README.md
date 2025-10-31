@@ -29,5 +29,6 @@ This project demonstrates the use of **file handling**, **structures**, and **so
 ## ⚙️ How to Run
 
 1. **Compile the program:**
-$ gcc Student_Record_Management_System.c -o Student_Record_Management_System
-$ ./Student_Record_Management_System
+   ```bash
+   $ gcc Student_Record_Management_System.c -o Student_Record_Management_System
+   $ ./Student_Record_Management_System
